@@ -144,6 +144,8 @@ http://ott.mobaibox.com/PLTV/4/224/3221228686/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228671/index.m3u8
 #EXTINF:-1 tvg-id="CCTVsjdl" tvg-name="世界地理" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVsjdl.png" group-title="数字",世界地理
 http://ott.mobaibox.com/PLTV/4/224/3221228680/index.m3u8
+#EXTINF:-1 tvg-id="dycj" tvg-name="第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一财经.png" group-title="数字",第一财经
+http://ott.mobaibox.com/PLTV/4/224/3221229065/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京纪实.png",北京纪实科教8K
 http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
 #EXTINF:-1 tvg-id="xc4k" tvg-name="纯享4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cx4k.png" group-title="数字",纯享4K
@@ -152,8 +154,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228679/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="4K",4K修复
 http://ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
-#EXTINF:-1 ,晴彩篮球4K
-http://ott.mobaibox.com/PLTV/4/224/3221228682/index.m3u8
+#EXTINF:-1 tvg-id="xclq" tvg-name="晴彩篮球4K" tvg-logo="https://news-test.cbct.cn/assets/img/hero-carousel/logo3.png" group-title="数字",晴彩篮球4K
 #EXTINF:-1 ,音乐台4K
 http://ott.mobaibox.com/PLTV/4/224/3221228641/index.m3u8
 #EXTINF:-1 ,电影台4K
