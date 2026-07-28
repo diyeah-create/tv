@@ -177,8 +177,7 @@ http://ott.mobaibox.com/PLTV/4/224/3221229065/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
 #EXTINF:-1 tvg-id="xc4k" tvg-name="纯享4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cx4k.png" group-title="数字",纯享4K
 http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="4K",4K修复
+#EXTINF:-1 tvg-name="4K修复" tvg-logo="https://live.fanmingming.com/tv/4K修复.png" group-title="4K频道",4K修复
 http://ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
 
 #EXTINF:-1 ,音乐台4K
@@ -187,10 +186,10 @@ http://ott.mobaibox.com/PLTV/4/224/3221228641/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228615/index.m3u8
 #EXTINF:-1 ,江苏移动8K测试
 http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-#EXTINF:-1 tvg-name="宿迁综合" group-title="地区",宿迁综合
+#EXTINF:-1 tvg-name="宿迁公共" tvg-logo="https://live.fanmingming.com/tv/宿迁公共.png" group-title="地区",宿迁公共
+http://ott.mobaibox.com/PLTV/4/224/3221226939/index.m3u8
+#EXTINF:-1 tvg-name="宿迁综合" tvg-logo="https://live.fanmingming.com/tv/宿迁综合.png" group-title="地区",宿迁综合
 http://ott.mobaibox.com/PLTV/4/224/3221226944/index.m3u8
-#EXTINF:-1 tvg-name="宿迁公共" group-title="地区",宿迁公共
-http://ott.mobaibox.com/PLTV/3/224/3221226939/index.m3u8
 #EXTINF:-1 tvg-name="南通新闻综合" tvg-logo="https://live.fanmingming.com/tv/南通新闻综合.png" group-title="地区",南通新闻综合
 http://ott.mobaibox.com/PLTV/4/224/3221228462/index.m3u8
 #EXTINF:-1 tvg-name="南通2" tvg-logo="https://live.fanmingming.com/tv/南通2.png" group-title="地区",南通2
